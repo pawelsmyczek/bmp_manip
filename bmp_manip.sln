@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmp_manip", "bmp_manip.csproj", "{0408CA9A-AE74-46AE-BB21-BE992A0A065F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0408CA9A-AE74-46AE-BB21-BE992A0A065F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0408CA9A-AE74-46AE-BB21-BE992A0A065F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0408CA9A-AE74-46AE-BB21-BE992A0A065F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0408CA9A-AE74-46AE-BB21-BE992A0A065F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E6F2EF-FD9D-40DF-BACC-AF8A2383889B}
+	EndGlobalSection
+EndGlobal
